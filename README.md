@@ -1,12 +1,12 @@
-# StaticMetotKullanimi
+# Static Metot Kullanimi
 
-Bu projede C# dilinde static metot kullanımı örneklenmiştir.  
-`Personel` sınıfı içerisindeki metotlar `static` olarak tanımlandığı için, doğrudan sınıf üzerinden çağrılabilir.
+Bu projede C# dilinde static metot kullanÄ±mÄ± Ã¶rneklenmiÅŸtir.  
+`Personel` sÄ±nÄ±fÄ± iÃ§erisindeki metotlar `static` olarak tanÄ±mlandÄ±ÄŸÄ± iÃ§in, doÄŸrudan sÄ±nÄ±f Ã¼zerinden Ã§aÄŸrÄ±labilir.
 
-### İçerik:
-- isimSoyisimYazdir(): Konsola isim soyisim yazdırır.
-- sayilariTopla(int sayi1, int sayi2): İki sayının toplamını yazdırır.
+### Ä°Ã§erik:
+- isimSoyisimYazdir(): Konsola isim soyisim yazdÄ±rÄ±r.
+- sayilariTopla(int sayi1, int sayi2): Ä°ki sayÄ±nÄ±n toplamÄ±nÄ± yazdÄ±rÄ±r.
 
-### Örnek Çıktı:
-Ece Özdemir
-İki sayının toplamı: 22
+### Ã–rnek Ã‡Ä±ktÄ±:
+Ece Ã–zdemir
+Ä°ki sayÄ±nÄ±n toplamÄ±: 22
