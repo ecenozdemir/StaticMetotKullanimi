@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Udemy C#\StaticMetotKullanimi\StaticMetotKullanimi\bin\Debug\net6.0\StaticMetotKullanimi.exe
+C:\Users\DELL\Desktop\Udemy C#\StaticMetotKullanimi\StaticMetotKullanimi\bin\Debug\net6.0\StaticMetotKullanimi.deps.json
+C:\Users\DELL\Desktop\Udemy C#\StaticMetotKullanimi\StaticMetotKullanimi\bin\Debug\net6.0\StaticMetotKullanimi.runtimeconfig.json
+C:\Users\DELL\Desktop\Udemy C#\StaticMetotKullanimi\StaticMetotKullanimi\bin\Debug\net6.0\StaticMetotKullanimi.dll
+C:\Users\DELL\Desktop\Udemy C#\StaticMetotKullanimi\StaticMetotKullanimi\bin\Debug\net6.0\StaticMetotKullanimi.pdb
+C:\Users\DELL\Desktop\Udemy C#\StaticMetotKullanimi\StaticMetotKullanimi\obj\Debug\net6.0\StaticMetotKullanimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Udemy C#\StaticMetotKullanimi\StaticMetotKullanimi\obj\Debug\net6.0\StaticMetotKullanimi.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Udemy C#\StaticMetotKullanimi\StaticMetotKullanimi\obj\Debug\net6.0\StaticMetotKullanimi.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Udemy C#\StaticMetotKullanimi\StaticMetotKullanimi\obj\Debug\net6.0\StaticMetotKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Udemy C#\StaticMetotKullanimi\StaticMetotKullanimi\obj\Debug\net6.0\StaticMetotKullanimi.dll
+C:\Users\DELL\Desktop\Udemy C#\StaticMetotKullanimi\StaticMetotKullanimi\obj\Debug\net6.0\refint\StaticMetotKullanimi.dll
+C:\Users\DELL\Desktop\Udemy C#\StaticMetotKullanimi\StaticMetotKullanimi\obj\Debug\net6.0\StaticMetotKullanimi.pdb
+C:\Users\DELL\Desktop\Udemy C#\StaticMetotKullanimi\StaticMetotKullanimi\obj\Debug\net6.0\StaticMetotKullanimi.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Udemy C#\StaticMetotKullanimi\StaticMetotKullanimi\obj\Debug\net6.0\ref\StaticMetotKullanimi.dll
